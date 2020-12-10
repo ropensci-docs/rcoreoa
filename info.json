@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f7019efdb47c5795063f43a32dc3be0228da60db",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-12-10 22:18:33",
+    "files": 1,
+    "merge": false,
+    "message": "install poppler on macos\n"
+  },
+  "remote": "https://github.com/ropensci/rcoreoa",
+  "pkg": "rcoreoa"
+}
